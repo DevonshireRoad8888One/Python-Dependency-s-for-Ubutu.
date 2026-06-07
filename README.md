@@ -1,2 +1,49 @@
 # Python-Dependency-s-for-Ubutu.
 Python Dependency's for Ubutu.
+
+
+
+
+bash
+
+ sudo apt install python3.12-venv -y
+
+sudo apt update
+
+sudo apt install software-properties-common -y
+
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+sudo apt install python3.12 python3.12-dev python3.12-venv -y
+
+ 
+
+
+sudo apt update
+
+sudo apt install software-properties-common -y
+
+ 
+
+ 
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+sudo apt install python3.12 python3.12-dev python3.12-venv -y
+
+sudo apt install python3.12-venv -y
+
+sudo apt update && sudo apt upgrade -y
+
+sudo apt install curl -y
+
+
+sudo apt update
+sudo apt install zstd
+
+
+sudo apt install ffmpeg
+
+
+curl -fsSL https://ollama.com/install.sh | sh
+
+
